@@ -8,3 +8,5 @@ data/
 __pycache__/
 *.pyc
 data/
+.git-lite-backup/
+.git-lite-backup/
